@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maximotcm</h1>
 <h3 align="center">A CHAD frontend developer from Argentina</h3>
 
+- ⚡ Fun fact **My favorite band is Genesis okk**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -11,4 +13,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximotcm&show_icons=true&locale=en&layout=compact" alt="maximotcm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maximotcm&show_icons=true&locale=en" alt="maximotcm" /></p>
-
